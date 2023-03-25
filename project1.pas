@@ -9,7 +9,7 @@ begin
 	then
 		writeln('Es UN DINOSAURIO')
 	else
-		writeln('TU VIEJA');
+		writeln('TU VIEJA es puta y se deja');
 	for x:= 1 to 10 do
 	begin
 		writeln(x);
